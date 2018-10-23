@@ -2,6 +2,8 @@
 
 > d3 graph using canvas with thumbnail
 
+## description
+
 > 基于d3.js的simulation力导图，canvas实现的带缩略图的关系图谱案例
 
 > 目前项目采用vue开发，因此以vue cli 2+构建项目，如果运行报错，可能是版本原因，解决方式：npm install之后，运行 npm i -D webpack-dev-server@2.9.7即可
@@ -10,6 +12,9 @@
 
 > 本案例遵从MIT协议，请认准[http://www.github.com/zhixiaotong]
   如果该案例对你有所启发或帮助，请留下你的小心心，不胜感激~
+  
+## 预览：
+![Demo picture](https://github.com/zhixiaotong/d3-graph-with-thumbnail/blob/master/demo.gif)
 
 ## Build Setup
 
