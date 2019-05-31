@@ -16,30 +16,30 @@
 ## 预览：
 ![Demo picture](https://github.com/zhixiaotong/d3-graph-with-thumbnail/blob/master/demo.gif)
 
-## Project setup
+## 安装项目依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 本地开发者模式运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 线上模式打包运行
 ```
 npm run build
 ```
 
-### Run your tests
+### 执行测试
 ```
 npm run test
 ```
 
-### Lints and fixes files
+### 提示和修复文件
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 自定义配置
+请参考 [Configuration Reference](https://cli.vuejs.org/config/).
