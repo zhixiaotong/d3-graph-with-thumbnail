@@ -6,14 +6,12 @@
 
 > 基于d3.js的simulation力导图，canvas实现的带缩略图的关系图谱案例
 
-> 目前项目采用vue开发,采用了最新vue cli(version：3.8.2)脚手架开发
+> 项目采用vue开发,已更新为当前最新vue cli版本(version：3.8.2)脚手架搭建
 
-> 预览图采用GifCam.exe捕捉，有残影效果不明显。
-
-> 由于是内网项目，删减了很多其他基础功能，比如：取消了canvas的框选节点、取消了基于链表的前进撤消...但保留了基本的代码结构和一些canvas优化性能的方式。以上大都是较容易实现的功能，之前网上鲜有基于canvas的缩略图案例，因此放上来做一个记录，给有需求的朋友帮助，与君共勉。
+> 网上鲜有基于canvas的缩略图案例，因此放上来做一个记录，代码中还包含一些canvas性能优化的方式。给有需求的朋友帮助，与君共勉。
 
 > 本案例遵从MIT协议，请认准[http://www.github.com/zhixiaotong]
-  如果该案例对你有所启发或帮助，请留下你的小心心，不胜感激~
+  如果该案例对你有所启发或帮助，请留下你的小心心！！！
   
 ## 预览：
 ![Demo picture](https://github.com/zhixiaotong/d3-graph-with-thumbnail/blob/master/demo.gif)
