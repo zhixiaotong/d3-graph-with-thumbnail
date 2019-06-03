@@ -12,8 +12,11 @@
 
 > 本案例遵从MIT协议，请认准[http://www.github.com/zhixiaotong]
   如果该案例对你有所启发或帮助，请留下你的小心心！！！
+
+## 在线预览：
+https://zhixiaotong.github.io/demo-online/example/thumbnail
   
-## 预览：
+## 预览图：
 ![Demo picture](https://github.com/zhixiaotong/d3-graph-with-thumbnail/blob/master/demo.gif)
 
 ## 安装项目依赖
