@@ -17,9 +17,6 @@
 
 ## 在线预览：
 https://zhixiaotong.github.io/demo-online/example/thumbnail
-  
-## 预览图：
-![Demo picture](https://github.com/zhixiaotong/d3-graph-with-thumbnail/blob/master/demo.gif)
 
 ## 安装项目依赖
 ```
